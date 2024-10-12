@@ -5,4 +5,5 @@ export const Input = styled.input`
     height: 46px;
     border-radius: 12px;
     border: 1px solid var(--roxo);
+    padding: 10px;
 `
