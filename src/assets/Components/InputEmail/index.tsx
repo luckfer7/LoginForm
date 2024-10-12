@@ -14,7 +14,8 @@ const InputEmail = forwardRef<HTMLInputElement>((props, ref) => (
         type="email" 
         {...props}
         ref={ref}
-        placeholder="Digite seu email" 
+        placeholder="Digite seu email"
+         
     />
 ));
 
